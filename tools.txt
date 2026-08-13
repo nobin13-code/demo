@@ -1,0 +1,15 @@
+tools:
+https://seostudio.tools/  -  a directory of free online tools across categories like SEO, text, image, YouTube, web development, converters, calculators, etc.
+
+https://drive.google.com/drive/folders/1peeQpzpaTq_tUwgIgsXLDD4E9LIi6FzS  -  ai generalist
+
+
+Cursor
+Codex
+Trae
+Void
+windSerf
+
+dev.to
+cs50
+neetcode
